@@ -1,4 +1,4 @@
-package br.com.ccs.springsecurity.config;
+package br.com.ccs.springsecurity.init;
 
 import br.com.ccs.springsecurity.entity.Usuario;
 import br.com.ccs.springsecurity.repository.UsuarioRepository;
